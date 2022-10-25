@@ -75,3 +75,11 @@ Support Vector Machine
 Random forest classifier creates a set of decision trees from randomly selected subset of training set. It then aggregates the votes from different decision trees to decide the final class of the test object.Ensembled algorithms are those which combines more than one algorithms of same or different kind for classifying objects. For example, running prediction over Naive Bayes, SVM and Decision Tree and then taking vote for final consideration of class for test object.Basic parameters to Random Forest Classifier can be total number of trees to be generated and decision tree related parameters like minimum split, split criteria etc.
 
 ![image](https://user-images.githubusercontent.com/109582656/197851487-cac8d12b-da5b-451d-a389-193926233ecb.png)
+
+# SVM Classifier
+
+Support Vector Machine, or SVM, is a prominent Supervised Learning technique that is used for both classification and regression issues. However, it is mostly utilised in Machine Learning for Classification purposes.
+
+The SVM algorithm’s purpose is to find the optimum line or decision boundary for categorising n-dimensional space so that we may simply place fresh data points in the proper category in the future. A hyperplane is the optimal choice boundary.
+![image](https://user-images.githubusercontent.com/109582656/197851848-fbdef39a-414d-4601-8a59-6cdc28714130.png)
+
